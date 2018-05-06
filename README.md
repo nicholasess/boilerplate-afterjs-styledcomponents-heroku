@@ -2,7 +2,11 @@
 
 ## Start your project
 
+Close the repository
+
 `git clone https://github.com/nicholasess/boilerplate-afterjs-styledcomponents-heroku projectname`
+
+Enter in path project
 
 `cd projectname`
 
