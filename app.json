@@ -1,0 +1,7 @@
+{
+  "name": "BoilerPlate AfterJs, Styled-components and Heroku",
+  "description": "Setup with AfterJs, Styled-components and Heroku",
+  "repository":
+    "https://github.com/nicholasess/boilerplate-afterjs-styledcomponents-heroku",
+  "keywords": ["node", "react", "afterjs"]
+}
